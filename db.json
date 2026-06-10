@@ -1,0 +1,17 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "1234567890"
+    },
+    {
+      "name": "cc",
+      "email": "xxddd",
+      "phone": "xxx",
+      "id": "ZZ8JmW18wXc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
