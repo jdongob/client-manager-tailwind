@@ -51,9 +51,15 @@ src/
 
 ## Installation
 
+1. Install dependencies:
+```bash
 npm install
-npm run dev
+```
 
+2. Run the project:
+```bash
+npm run dev
+```
 ---
 
 ## Author
