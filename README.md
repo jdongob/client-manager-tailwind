@@ -32,22 +32,23 @@ Client management application built with React, Tailwind CSS, Context API, React
 ## Project Structure
 
 src/
-components/
-ClientForm.jsx
-
-pages/
-Home.jsx
-CreateClient.jsx
-EditClient.jsx
-
-context/
-ClientContext.jsx
-
-services/
-api.js
-
-layouts/
-DashboardLayout.jsx
+│
+├── components/
+│ └── ClientForm.jsx
+│
+├── pages/
+│ ├── Home.jsx
+│ ├── CreateClient.jsx
+│ └── EditClient.jsx
+│
+├── context/
+│ └── ClientContext.jsx
+│
+├── services/
+│ └── api.js
+│
+└── layouts/
+└── DashboardLayout.jsx
 
 ---
 
