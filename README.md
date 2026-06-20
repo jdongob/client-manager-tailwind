@@ -1,6 +1,7 @@
 # Client Manager - React + Tailwind
 
-Client management application built with React, Tailwind CSS, Context API, React Router and JSON Server.
+Client management application built with React, Tailwind CSS, Context API and React Router.
+It consumes a REST API built with JSON Server.
 
 ---
 
@@ -19,13 +20,22 @@ Client management application built with React, Tailwind CSS, Context API, React
 
 ## Tech Stack
 
+Frontend:
 - React
 - Vite
-- Tailwind CSS
-- Context API
-- React Router
-- JSON Server
 - JavaScript
+
+Styling:
+- Tailwind CSS
+
+State Management:
+- Context API
+
+Routing:
+- React Router
+
+Backend (Mock API):
+- JSON Server
 
 ---
 
@@ -61,6 +71,10 @@ npm install
 npm run dev
 ```
 ---
+
+## 🌐 Live Demo
+
+https://client-manager-tailwind.vercel.app/
 
 ## Author
 
