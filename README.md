@@ -76,6 +76,10 @@ npm run dev
 
 https://client-manager-tailwind.vercel.app/
 
+It consumes a REST API built with JSON Server deployed on Render.
+
+---
+
 ## Author
 
 GitHub: https://github.com/jdongob
