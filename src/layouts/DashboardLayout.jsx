@@ -21,10 +21,8 @@ export default function DashboardLayout({ children }) {
         </nav>
       </aside>
 
-      {/* MAIN CONTENT 
-      <main className="flex-1 bg-gray-100 p-6">*/}
-      
-      <main className="flex-1 bg-gray-100 p-6 overflow-x-auto">
+      {/* MAIN CONTENT */}
+      <main className="flex-1 bg-gray-100 p-6">     
         {children}
       </main>
 
