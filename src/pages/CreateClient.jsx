@@ -70,8 +70,8 @@ function CreateClient ()
 
     return (
        /* <div className="bg-white p-8 rounded shadow max-w-2xl mx-auto mt-10"> */
-          <div className="bg-white p-8 rounded shadow w-[470px] mx-auto mt-10">
-
+          <div className="bg-white p-8 rounded shadow w-[480px] md:w-auto md:max-w-2xl mx-auto mt-10"> 
+              
             <h1 className="text-2xl font-bold mb-4">Create Client - Reusable Form</h1>
 
             <ClientForm 
